@@ -4,7 +4,7 @@ Este repositório contém o modelo de classificação de elegibilidade de crédi
 
 ## 1. Tipo de Modelo
 
-* **Algoritmo**: K-Nearest Neighbors (KNN)
+* **Algoritmo**: K-Nearest Neighbors (KNN) com  Neighbors = 30
 
 ## 2. Variáveis de Entrada
 
